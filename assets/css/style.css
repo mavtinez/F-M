@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(37, 41, 52);
+}
+nav{
+    background-color: rgb(37, 41, 52)
+}
+.img-fluid{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+/* Carta quote */
+
+.body-card{
+    margin: 10px;
+    color: black;
+}
